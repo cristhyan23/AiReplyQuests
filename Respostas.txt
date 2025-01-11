@@ -1,94 +1,105 @@
-## Respostas da Prova de Engenharia de Software
+## Respostas da Prova de Análise de Dados
 
-**1. Questão (1):** Na fase inicial de um projeto de software, a definição clara de objetivos é fundamental. Isso ajuda a equipe a manter o foco e a direção, além de facilitar a medição do progresso e do sucesso do projeto. Qual é a chave para o sucesso na fase inicial de um projeto de software?
+Aqui estão as respostas para as 10 perguntas da prova, analisando cada uma de forma detalhada:
 
-   * **Interpretação:** A pergunta busca identificar o elemento mais importante para garantir o sucesso da fase inicial de um projeto de software. 
-   * **Resposta:** Definição de objetivos.
-   * **Justificativa:** A definição de objetivos claros e bem definidos é crucial para direcionar o projeto, definir o escopo, guiar as decisões e facilitar a comunicação entre os membros da equipe. Sem objetivos claros, o projeto pode se tornar desorganizado, imprevisível e difícil de medir o progresso.
+**1. Questão (1):** Um estudo sobre o impacto de diferentes níveis de instrução no acesso a tecnologias digitais categoriza os entrevistados em três níveis de instrução e registra o número de dispositivos tecnológicos que possuem.
 
-**2. Questão (2):** No contexto da etapa de projeto do processo de desenvolvimento de software, avalie a relação entre os conceitos e definições a seguir:
+   Considerando o texto, analise as afirmativas abaixo:
 
-    | [1] | Implantação | [A] | Inclui a correção de defeitos não identificados nas etapas anteriores do processo de desenvolvimento de software. |
-    |---|---|---|---|
-    | [2] | Manutenção | [B] | Permite a modificação de um software existente a partir de alterações significativas nas regras de negócio. |
-    | [3] | Reengenharia de software | [C] | Etapa do processo de desenvolvimento de software relacionada com a transferência do sistema da comunidade de desenvolvimento para a comunidade de usuários. |
+   I. Níveis de instrução podem ser classificados como uma variável qualitativa ordinal.
 
-    Assinale a opção que corretamente relaciona os referidos conceitos e definições:
+   II. A quantidade de dispositivos tecnológicos possuídos é uma variável quantitativa contínua.
 
-   * **Interpretação:** A pergunta exige que se relacione cada conceito ([1], [2], [3]) com a sua definição correta ([A], [B], [C]), compreendendo o papel de cada fase no desenvolvimento de software.
-   * **Resposta:** [1][C] - [2][A] - [3][B]
-   * **Justificativa:** 
-     * **Implantação ([1])** é a fase em que o software é transferido para o ambiente do usuário, incluindo testes finais e configuração. A definição [C] representa esse processo, que envolve a transição do sistema para o ambiente real.
-     * **Manutenção ([2])** é a fase que envolve correções, melhorias e adaptações no software após sua entrega. A definição [A] se encaixa, pois abrange a correção de erros encontrados após a implantação.
-     * **Reengenharia de software ([3])** consiste em reconstruir um sistema existente a partir de sua base de código, utilizando novas tecnologias e princípios de design. A definição [B] se aplica a esse processo, que visa modificar o software de forma significativa para atender a novos requisitos.
+   III. Variáveis qualitativas como o tipo de dispositivo tecnológico possuído não têm ordem natural.
 
-**3. Questão (3):** Ao analisar a aplicação da prototipação em seus projetos de software, decidiu-se utilizar um processo que define 4 etapas para o desenvolvimento de protótipos, sendo essas etapas:
-
-    I. Avaliar Protótipo.
-    II. Estabelecer Objetivos do Protótipo.
-    III. Desenvolver o Protótipo.
-    IV. Definir a Funcionalidade do Protótipo.
-
-    A ordem sequencial correta para a execução dessas quatro etapas é:
-
-   * **Interpretação:** A pergunta exige que se defina a sequência lógica das etapas para o desenvolvimento de um protótipo, compreendendo a função de cada etapa no processo.
-   * **Resposta:** II, IV, III e I.
-   * **Justificativa:** 
-     * **Estabelecer Objetivos do Protótipo (II):**  O primeiro passo é definir o propósito do protótipo, o que se pretende alcançar com ele (testar interface, validar funcionalidade, etc.).
-     * **Definir a Funcionalidade do Protótipo (IV):** Definir quais funcionalidades serão incluídas no protótipo, o escopo da versão a ser testada.
-     * **Desenvolver o Protótipo (III):**  Com base nos objetivos e funcionalidades definidas, o protótipo é criado.
-     * **Avaliar Protótipo (I):** O protótipo é apresentado aos stakeholders e/ou usuários, buscando feedback e validação das decisões tomadas.
-
-**4. Questão (4):** Técnica comumente utilizada na identificação de riscos, se realiza através de uma reunião com uma equipe multidisciplinar, a reunião é promovida por meio de um facilitador e tem como objetivo listar os riscos do projeto. Marque a alternativa que indica a técnica descrita acima.
-
-   * **Interpretação:** A pergunta busca identificar uma técnica específica utilizada em projetos para identificar riscos, com base em sua descrição.
-   * **Resposta:** Brainstorm
-   * **Justificativa:** O brainstorming é uma técnica de brainstorming colaborativo, que busca gerar ideias e soluções de forma rápida e criativa. No contexto da gestão de riscos, o brainstorming é utilizado para identificar potenciais riscos e suas causas. 
-   * **Outras Técnicas:** Existem outras técnicas de identificação de riscos, como análise SWOT (Strengths, Weaknesses, Opportunities, and Threats), análise de causa e efeito (Ishikawa), árvore de decisão, e análise de cenário.
-
-**5. Questão (5):** Em um projeto de software, a equipe de desenvolvimento se depara com a tarefa de medir a qualidade do produto final. Eles consideram diferentes métricas para avaliar aspectos como eficiência, confiabilidade e usabilidade. Qual destas métricas é primordial para avaliar a eficiência de um software?
-
-   * **Interpretação:** A pergunta busca identificar a métrica mais adequada para medir a eficiência de um software, entre as diversas métricas de qualidade.
-   * **Resposta:** Tempo de resposta do sistema.
-   * **Justificativa:** A eficiência de um software está diretamente ligada à sua capacidade de executar tarefas de forma rápida e eficiente. O tempo de resposta do sistema é uma métrica crucial para avaliar essa característica, pois indica o tempo que o software leva para responder a uma solicitação do usuário. 
-
-**6. Questão (6):** Um gerente de projeto de software está analisando o impacto do controle de qualidade nos custos do projeto. Ele avalia como diferentes práticas de controle de qualidade podem afetar o custo total e a eficácia do software entregue. Qual prática de controle de qualidade é mais efetiva para minimizar erros de software durante a fase de desenvolvimento?
-
-   * **Interpretação:** A pergunta busca identificar a prática de controle de qualidade mais efetiva para evitar erros durante a fase de desenvolvimento, considerando seu impacto no custo do projeto.
-   * **Resposta:** Uso frequente de auditorias de qualidade.
-   * **Justificativa:** As auditorias de qualidade são revisões sistemáticas e independentes do código fonte, design e documentação do software para identificar potenciais erros e desvios dos padrões de qualidade. A aplicação frequente de auditorias, em diferentes fases do desenvolvimento, permite detectar erros precocemente, reduzindo o custo de correções posteriores e garantindo um software mais confiável.
-
-**7. Questão (7):** Na engenharia de software, o gerenciamento de configuração de software tem como objetivo:
-
-   * **Interpretação:** A pergunta busca definir o objetivo principal do gerenciamento de configuração de software (SCM).
-   * **Resposta:** Gerenciar mudanças e seu impacto no desenvolvimento do software.
-   * **Justificativa:** O SCM é uma disciplina que garante a rastreabilidade e controle de versões dos artefatos de software (código, documentação, etc.) durante o desenvolvimento. Seu objetivo é minimizar o impacto de mudanças no sistema, permitindo que a equipe trabalhe de forma organizada e eficiente, reduzindo erros e conflitos.
-
-**8. Questão (8):** Gerência de Configuração de Software é um conjunto de atividades de apoio, que permite a absorção controlada das mudanças, inerentes ao desenvolvimento de software, mantendo a estabilidade na evolução do projeto. Podemos dividir o Gerenciamento de Configuração de Software em três níveis: 
-
-    | Nível 1 | Nível 2 | Nível 3 |
-    |---|---|---|
-    | Controle de versão | Controle de mudanças | Integração contínua | 
-
-    Tomando por base a figura anterior, assinale a alternativa que define, corretamente, cada nível do Gerenciamento de Configuração de Software.
-
-   * **Interpretação:** A pergunta pede que se identifique a função de cada um dos três níveis do Gerenciamento de Configuração de Software, conforme a imagem fornecida.
-   * **Resposta:** Controle de versão: identifica em qual versão está o software e quais as características de cada versão. Controle de mudanças: identifica quais foram as mudanças, efetuadas na versão. Integração contínua: tem como características testar as mudanças, assim que são realizadas.
+   * **Interpretação:** A questão pede para classificar as variáveis "níveis de instrução" e "quantidade de dispositivos tecnológicos" e "tipo de dispositivo tecnológico" como qualitativas ou quantitativas, e, se qualitativas, se são nominais ou ordinais.
+   * **Resposta:** Apenas I e III estão corretas.
    * **Justificativa:**
-     * **Controle de versão:** Mantem um histórico das versões do software, permitindo acessar versões anteriores, identificar modificações e realizar comparações.
-     * **Controle de mudanças:**  Gerencia as alterações no código fonte e nos outros artefatos do software, registrando quem fez a alteração, o motivo e os impactos.
-     * **Integração contínua:**  Automatiza o processo de construção e teste do software, incorporando novas modificações e verificando se o sistema ainda funciona como esperado.
+      * **I. Correta:** Níveis de instrução (ex: fundamental, médio, superior) são **qualitativos**, pois representam categorias, e **ordinais**, pois possuem uma ordem natural hierárquica (fundamental < médio < superior).
+      * **II. Incorreta:** A quantidade de dispositivos tecnológicos é **quantitativa discreta**, pois representa valores inteiros e não pode assumir valores intermediários (ex: 1, 2, 3 dispositivos, mas não 2,5).
+      * **III. Correta:** O tipo de dispositivo tecnológico (ex: celular, computador, tablet) é **qualitativo nominal**, pois as categorias não possuem ordem natural hierárquica. 
 
-**9. Questão (9):** Em Engenharia de Software, os requisitos desempenham um papel fundamental na determinação das necessidades de um sistema de software. Qual a definição de “requisito”?
+**2. Questão (2):** Em um estudo sobre os hábitos alimentares de estudantes universitários, um pesquisador decide investigar todas as refeições consumidas durante uma semana em um campus universitário. Este grupo de refeições consumidas pelos estudantes representa:
 
-   * **Interpretação:** A pergunta busca definir o conceito de “requisito” no contexto da Engenharia de Software.
-   * **Resposta:** São descrições dos serviços fornecidos pelo sistema e as suas restrições operacionais.
-   * **Justificativa:** Requisitos são descrições detalhadas das funcionalidades que o software deve ter, incluindo as necessidades do usuário, as regras de negócio e as restrições de desempenho, segurança, plataforma, etc. Eles servem como base para o desenvolvimento do software e garantem que o sistema atenda às expectativas dos stakeholders.
+   * **Interpretação:** A questão busca identificar o tipo de amostra que o pesquisador está utilizando.
+   * **Resposta:** Uma seleção específica retirada de um conjunto maior de dados alimentares globais.
+   * **Justificativa:** O pesquisador está focando em um grupo específico (estudantes universitários em um campus), e este grupo representa uma amostra de um conjunto maior (todos os estudantes universitários do mundo, por exemplo).
 
-**10. Questão (10):** Considerando o uso do RUP (Rational Unified Process), deve-se considerar que, segundo essa técnica:
+**3. Questão (3):** Considere o conjunto de dados a seguir:
 
-   * **Interpretação:** A pergunta busca identificar uma característica específica do RUP, um modelo de processo de desenvolvimento de software.
-   * **Resposta:** O número de iterações em cada uma de suas quatro fases é variável, conforme o projeto.
-   * **Justificativa:**  O RUP é um processo iterativo e incremental, o que significa que o desenvolvimento ocorre em ciclos (iterações) e que o software é construído gradualmente. O número de iterações em cada fase (Inception, Elaboration, Construction, Transition) pode variar de acordo com a complexidade do projeto, as necessidades do cliente e as mudanças que ocorrem durante o desenvolvimento.
+   60 80 80 85 85 85 85 90 90 90 90 90 100 100 100 100 100 100
 
-**Observação:** As respostas acima são baseadas em conceitos gerais de Engenharia de Software. É importante ter em mente que cada projeto é único e a aplicação das melhores práticas e técnicas pode variar.
+   O box plot correspondente a esse conjunto de dados é:
+
+   (A imagem do box plot está presente no texto original da prova)
+
+   * **Interpretação:** A questão pede para identificar o box plot que representa o conjunto de dados fornecido.
+   * **Resposta:** (A) - O box plot com as seguintes características:
+      * **Min:** 60
+      * **Q1:** 85
+      * **Mediana:** 90
+      * **Q3:** 100
+      * **Max:** 100
+   * **Justificativa:** 
+      * **Min:** Menor valor do conjunto de dados.
+      * **Q1:** Primeiro quartil, que separa os 25% menores valores.
+      * **Mediana:** Valor central do conjunto de dados.
+      * **Q3:** Terceiro quartil, que separa os 25% maiores valores.
+      * **Max:** Maior valor do conjunto de dados.
+
+**4. Questão (4):** Em um estudo de biologia marinha, pesquisadores estão interessados em analisar a relação entre o tamanho de diferentes espécies de tubarões e sua capacidade de migração. Para isso, coletam dados sobre o comprimento (em metros) dos tubarões e categorizam as espécies segundo sua distância de migração (curta, média e longa). Com base nessas informações, como podemos classificar a variável comprimento dos tubarões e a variável distância de migração das espécies?
+
+   * **Interpretação:** A questão pede para classificar as variáveis "comprimento dos tubarões" e "distância de migração" como qualitativas ou quantitativas, e, se qualitativas, se são nominais ou ordinais.
+   * **Resposta:** Comprimento: Quantitativa contínua; Distância de migração: Qualitativa ordinal.
+   * **Justificativa:**
+      * **Comprimento:** É **quantitativo contínuo**, pois pode assumir qualquer valor dentro de um intervalo (ex: 2,5 metros, 3,1 metros).
+      * **Distância de migração:** É **qualitativo ordinal**, pois as categorias (curta, média, longa) possuem uma ordem natural hierárquica (curta < média < longa).
+
+**5. Questão (5):** Um pesquisador analisa os resultados de um teste aplicado a um grupo de estudantes. Após calcular a média dos resultados, ele determina que a variância dos resultados é 16. Com base nessa informação, qual é o desvio-padrão dos resultados do teste e o que isso indica sobre a distribuição das notas dos estudantes em torno da média?
+
+   * **Interpretação:** A questão pede para calcular o desvio padrão a partir da variância e interpretar o resultado.
+   * **Resposta:** O desvio-padrão é 4, indicando que as notas se distribuem moderadamente em torno da média.
+   * **Justificativa:** O desvio padrão é a raiz quadrada da variância. Neste caso, a variância é 16, então o desvio padrão é √16 = 4. 
+      * Um desvio padrão de 4 indica que as notas se dispersam moderadamente em torno da média. Quanto maior o desvio padrão, maior a dispersão, e quanto menor o desvio padrão, mais concentradas as notas estão em torno da média.
+
+**6. Questão (6):** Um analista está examinando o desempenho mensal de vendas de uma loja ao longo do último ano. Ele deseja apresentar os dados de uma maneira que facilite a visualização das tendências ao longo do tempo. Qual dos seguintes tipos de gráficos ele deveria utilizar para atender melhor a este objetivo?
+
+   * **Interpretação:** A questão busca o tipo de gráfico mais adequado para representar dados de séries temporais (dados coletados ao longo do tempo).
+   * **Resposta:** Gráfico de linhas, adequado para ilustrar variações e tendências em séries temporais.
+   * **Justificativa:** Gráficos de linhas são ideais para mostrar a evolução de dados ao longo do tempo, pois ligam pontos de dados em uma linha, evidenciando tendências de crescimento, decrescimento ou estabilidade.
+
+**7. Questão (7):** (FGV/2016) Existem dois métodos relativamente usuais para identificar, num conjunto de dados, valores não aderentes, denominados outliers. Um deles utiliza uma distribuição teórica, enquanto o outro emprega duas medidas descritivas, uma de posição e outra de dispersão. A propósito:
+
+   * **Interpretação:** A questão discute dois métodos para identificar outliers: um baseado em uma distribuição teórica e outro baseado em medidas descritivas (posição e dispersão). 
+   * **Resposta:** o método Box Plot é baseado em estatísticas de ordem.
+   * **Justificativa:** O método Box Plot utiliza estatísticas de ordem para definir quartis e limites superior e inferior. Outliers são valores que excedem esses limites, indicando valores discrepantes em relação à maioria dos dados. O z-score, por outro lado, é baseado em uma distribuição teórica (normal) e utiliza a média e o desvio padrão para identificar outliers.
+
+**8. Questão (8):** (CESGRANRIO/2008)  
+
+   (A imagem de um gráfico de barras está presente no texto original da prova)
+
+   A amplitude do número de bolsas de doutorado oferecidas pela Capes nesse período foi
+
+   * **Interpretação:** A questão pede para calcular a amplitude (diferença entre o maior e o menor valor) do número de bolsas de doutorado mostradas no gráfico de barras.
+   * **Resposta:** 2.443
+   * **Justificativa:** 
+      * A partir do gráfico, o maior número de bolsas de doutorado oferecido foi 2.740 (em 2005) e o menor foi 297 (em 2001).
+      * A amplitude é então 2.740 - 297 = 2.443
+
+**9. Questão (9):** Um estatístico coleta dados sobre a quantidade de horas que os alunos de uma escola passam fazendo lição de casa por semana. Ele deseja sintetizar essas informações para representar um valor central que descreva a experiência típica dos alunos. Qual das seguintes medidas ele deveria calcular para atingir esse objetivo, considerando que os dados não estão organizados em uma distribuição de frequência?
+
+   * **Interpretação:** A questão pede para identificar a melhor medida de tendência central para representar dados brutos (não agrupados em uma distribuição de frequência).
+   * **Resposta:** Mediana, que identifica o valor do meio quando os dados são ordenados do menor para o maior número de horas.
+   * **Justificativa:**
+      * **Média:** É sensível a outliers (valores discrepantes), que podem distorcer o valor central.
+      * **Moda:**  É útil para dados categóricos, mas não é representativa para dados quantitativos contínuos.
+      * **Variância e Desvio Padrão:** São medidas de dispersão, não de tendência central.
+      * **Mediana:** É a medida mais robusta em relação a outliers e representa o valor que divide o conjunto de dados em duas metades iguais.
+
+**10. Questão (10):** O HTML é uma linguagem de marcação de hipertexto utilizada para criar páginas web. Ela define a estrutura e o conteúdo de uma página web.
+
+   * **Interpretação:** Esta não é uma pergunta, mas uma afirmação sobre o HTML. 
+   * **Resposta:** (N/A)
+   * **Justificativa:** A afirmação é correta e fornece uma breve descrição da linguagem HTML.
+
+**Observação:** É importante destacar que as respostas fornecidas se baseiam na interpretação do contexto e do formato apresentado na prova. Em caso de dúvidas ou ambiguidades, consulte o material de estudo ou o professor responsável pela avaliação. 

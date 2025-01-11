@@ -50,7 +50,7 @@ Você é um especialista em {tema} e recebeu uma prova com 10 perguntas formatad
 
 
 if __name__ == "__main__":
-    tema = 'Engenharia de Software'
+    tema = 'Analise de Dados'
     humaniza = AnalistaTexto()
     resultado = ''
     with open(r'./Questoes.txt','r', newline="", encoding="utf-8", errors="replace") as texto:
